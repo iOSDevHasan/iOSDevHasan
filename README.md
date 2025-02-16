@@ -19,6 +19,7 @@ I’m someone who likes to live with goals, not afraid of taking on tasks and re
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=black" />
+  <img src="https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
