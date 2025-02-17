@@ -17,11 +17,11 @@ I’m someone who likes to live with goals, not afraid of taking on tasks and re
 
 ## 🚀 I build apps with  
 <p align="left">
-  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="Swift" width="40" height="40" />
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" />
-  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" width="40" height="40" />
-  <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" alt="Xcode" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40" />
+  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="Swift" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" alt="Xcode" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40" /> &nbsp;&nbsp;
 </p>
 
 ## 💻 DevOps & Collaboration Tools
