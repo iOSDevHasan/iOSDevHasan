@@ -17,10 +17,11 @@ I’m someone who likes to live with goals, not afraid of taking on tasks and re
 
 ## 🚀 I build apps with  
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=black" />
-  <img src="https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="Swift" width="40" height="40" />
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" />
+  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" width="40" height="40" />
+  <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" alt="Xcode" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40" />
 </p>
 
 ## 💻 DevOps & Collaboration Tools
